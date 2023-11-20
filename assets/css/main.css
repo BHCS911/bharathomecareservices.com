@@ -67,12 +67,7 @@ a:hover {
   padding-bottom:10px;
   width: auto;
 }
-/* .quote{
-  padding-right:0px;
-  padding-bottom: 5.2px;
-  color:orange;
-  font-size: 11.25px; 
-} */
+
 .first-head{
   display: flex;
   flex-direction: row;
@@ -695,75 +690,73 @@ section {
   }
   .logo{
     margin-left: -170px;
+    width: 170px;
   }
 
-.new{
-  display: flex;
-  flex-direction: column;
-  
-}
-.new-1{
-  display:none;
-}
-.new-2{
-  display: inline;
-}
-.img-head{
-  height: 35px;
-  width: auto;
-  margin-top: 50px;
-  padding-top: 0;
-  margin-left: -145px;
-  
-  /* margin-bottom: 91px; */
-}
-/* .quote{
-  color:orange;
-  font-size: 5px;
-  padding-top:4px;
-  margin-right: 43px;
-} */
-.first-head{
-  display: flex;
-  flex-direction: column;
-  margin-top: -50px;
-}
-.cta-btn{
-  background-color:transparent;
-  padding-left: 0px;
-  padding-right:18px;
-  margin-left:0px;
-  padding-top:0px;
-  font-size: 8px;
-  border-style: none;
-  color:#fff;
-  display: flex;
-  flex-direction: row;
+  .new{
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .new-1{
+    display:none;
+  }
+  .new-2{
+    display: inline;
+  }
+  .img-head{
+    height: 35px;
+    width: auto;
+    margin-top: 0px;
+    padding-top: 0;
+    margin-left: 180px;
+    
+    /* margin-bottom: 91px; */
+  }
 
-}
-.callicon{
-  width: 35px;
-  height:auto;
-  margin-top: -6px;
-}
-.header{
-  background-color: maroon; 
-  height:70px;
-}
-.nav-dots{
-  margin-right: -10px;
-}
-.logo-quote-grp{
-  margin-right: 50px;
-}
-.call-num-grp{
-  margin-right: 35px;
-}
-.side-bar-btn{
-  color: #ffffff;
-  font-size: 20px;
-  display: block;
-}
+  .first-head{
+    display: flex;
+    flex-direction: column;
+    margin-top: -50px;
+  }
+  .cta-btn{
+    background-color:transparent;
+    padding-left: 0px;
+    padding-right:18px;
+    margin-left:0px;
+    padding-top:px;
+    font-size: 8px;
+    border-style: none;
+    color:#fff;
+    display: flex;
+    flex-direction: row;
+
+  }
+  .callicon{
+    width: 35px;
+    height:auto;
+    margin-top: 0px;
+  }
+  .header{
+    background-color: maroon; 
+    height:70px;
+  }
+  .nav-dots{
+    margin-right: -10px;
+  }
+
+  .conum{
+    padding-top:10px;
+  }
+
+  .call-num-grp{
+    margin-right: 35px;
+  }
+  .side-bar-btn{
+    color: #ffffff;
+    font-size: 20px;
+    display: block;
+  }
 
 }
 
