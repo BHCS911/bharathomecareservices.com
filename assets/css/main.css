@@ -43,6 +43,12 @@ a:hover {
   display: flex;
 
 }
+.offcanvas-header{
+  background-color: orange;
+}
+.offcanvas-body{
+  background-color: orange;
+}
 @media (min-width: 575px){
 .prev-btn{
   margin-left: 300px;
@@ -100,6 +106,9 @@ a:hover {
 }
 .call-num-grp{
   margin-left: 600px;
+}
+.conum{
+  padding-top:25px;
 }
 }
 
