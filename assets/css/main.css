@@ -706,11 +706,11 @@ section {
   display: inline;
 }
 .img-head{
-  height: 40px;
+  height: 35px;
   width: auto;
   margin-top: 50px;
   padding-top: 0;
-  margin-right: 50px;
+  
   /* margin-bottom: 91px; */
 }
 /* .quote{
