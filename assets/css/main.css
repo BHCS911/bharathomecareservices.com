@@ -65,13 +65,13 @@ a:hover {
 .img-head{
   height: 70px;
   padding-bottom:10px;
-  width: 300px;
+  width: auto;
 }
-.quote{
+/* .quote{
   padding-right:0px;
   padding-bottom: 5.2px;
   color:orange;
-  font-size: 11.25px;
+  font-size: 11.25px; */
 }
 .first-head{
   display: flex;
@@ -707,18 +707,18 @@ section {
 }
 .img-head{
   height: 30px;
-  width: 180px;
+  width: auto;
   margin-top: 50px;
   padding-top: 0;
   margin-right: 50px;
   /* margin-bottom: 91px; */
 }
-.quote{
+/* .quote{
   color:orange;
   font-size: 5px;
   padding-top:4px;
   margin-right: 43px;
-}
+} */
 .first-head{
   display: flex;
   flex-direction: column;
